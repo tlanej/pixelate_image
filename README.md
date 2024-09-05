@@ -7,6 +7,6 @@ A simple app to pixelate an original image
 
 Without setting up a venv:
 
-pip3 install pillow --break-system-packages
-pip3 install tkinter --break-system-packages
-pip3 install tkinterdnd2 --break-system-packages
+## pip3 install pillow --break-system-packages
+## pip3 install tkinter --break-system-packages
+## pip3 install tkinterdnd2 --break-system-packages
