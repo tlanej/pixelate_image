@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import os
 import sys, subprocess
 
-subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'tkinterdnd2])
+subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'tkinterdnd2'])
 
 def pixelate_image(input_image_path, pixel_size):
     """Pixelates the image based on the input path and pixel size."""
