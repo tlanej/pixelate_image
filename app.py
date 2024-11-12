@@ -1,3 +1,4 @@
+!pip install tkinterdnd2
 import tkinter as tk
 from tkinter import filedialog, messagebox, Toplevel
 from tkinterdnd2 import TkinterDnD, DND_FILES
