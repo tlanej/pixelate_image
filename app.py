@@ -1,10 +1,5 @@
-#import tkinter as tk
-#from tkinter import filedialog, messagebox, Toplevel
-#from PIL import Image, ImageTk
-import os
-import sys, subprocess
-subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'tkinterdnd2'])
-from tkinterdnd2 import TkinterDnD, DND_FILES
+# image_pixelator.py
+
 import streamlit as st
 from PIL import Image
 import io
@@ -72,4 +67,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
